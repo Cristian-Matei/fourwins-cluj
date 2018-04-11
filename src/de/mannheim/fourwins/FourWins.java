@@ -4,6 +4,7 @@ public class FourWins
 {
 	//main klasse fur projekt
     //noch ein kommentar
+    //ein drittes kommentar
   public static void main(String argv[]) {
     
     Board theBoard = new Board();
