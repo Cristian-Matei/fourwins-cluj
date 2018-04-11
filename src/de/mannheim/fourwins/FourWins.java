@@ -2,6 +2,7 @@ package de.mannheim.fourwins;
 
 public class FourWins
 {
+	//main klasse fur projekt
   public static void main(String argv[]) {
     
     Board theBoard = new Board();
